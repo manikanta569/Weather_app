@@ -21,7 +21,7 @@ body{
     background-color: #fff;
     border-radius: 12px;
     padding: 28px;
-    background: linear-gradient(to right, red, orange, yellow);
+    background: linear-gradient(to right, red, rgb(151, 118, 56), rgb(79, 76, 74));
 }
 
 .search-box{
